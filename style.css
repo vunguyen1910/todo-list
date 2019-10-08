@@ -1,0 +1,33 @@
+.done{
+    border: 1px solid blue;
+}
+.undone{
+    border: 1px solid red;
+}
+h1{
+    align-content: center;
+    text-align: center;
+    padding-top: 30px;
+
+}
+.input-group{
+    margin: 20px;
+}
+.inputStyle{
+    display: flex;
+}
+#btn{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.result-with-btn{
+    display: flex;
+}
+li{
+    width: 950px;
+}
+body{
+    background-image: url("photo-1528038719194-6f72b64cf78f.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
